@@ -77,9 +77,9 @@
 	"homepage": "https://gatsby-starter-leaflet.netlify.app/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/colbyfayock/gatsby-starter-leaflet"
+		"url": "https://github.com/maxnvdm/MapCovid"
 	},
 	"bugs": {
-		"url": "https://github.com/colbyfayock/gatsby-starter-leaflet/issues"
+		"url": "https://github.com/maxnvdm/MapCovid/issues"
 	}
 }
